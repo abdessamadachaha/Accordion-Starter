@@ -1,16 +1,37 @@
-# React + Vite
+# 🎯 React Accordion Starter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-19-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Status](https://img.shields.io/badge/Project-Learning-green)
 
-Currently, two official plugins are available:
+## 📌 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a **simple Accordion UI component built with React**.  
+It allows users to **expand and collapse content sections** by clicking on a title.
 
-## React Compiler
+The goal of this project is to practice **React fundamentals** such as:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- State Management
+- Component Composition
+- Conditional Rendering
+- Handling User Interaction
 
-## Expanding the ESLint configuration
+This project is perfect for beginners who want to understand how **interactive UI components** work in React.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Features
+
+✔️ Expand and collapse accordion items  
+✔️ Only one section opens at a time  
+✔️ Clean and simple UI  
+✔️ Reusable component structure  
+✔️ Beginner-friendly React project  
+
+---
+
+## 🛠️ Technologies Used
+
+- ⚛️ React
+- 📜 JavaScript (ES6+)
+- 🎨 CSS
